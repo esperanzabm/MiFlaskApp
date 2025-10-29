@@ -1,0 +1,11 @@
+# Ignorar el entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración del entorno
+.env
